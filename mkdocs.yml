@@ -1,0 +1,8 @@
+site_name: Curso Kavac Luis Ramírez 
+repo_name: lgramirezs/Kavac
+repo_url: https://github.com/lgramirezs
+site_url: https://luisramirezportafolio.netlify.app/
+copyright: Luis Ramírez
+
+theme:
+    name: simple-blog
