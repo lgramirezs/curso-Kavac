@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Curso KAVAC  
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
 
-## Commands
+### Contenido
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**_Introducción_**       
 
-## Project layout
+* Introducción y características
+* Validar requerimientos previos (php, node y PostgreSQL)
+* Instalación
+* Estructura
+* Métodología de Desarrollo
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**_Desarrollo_**                                                                                                                  
+
+* Vuejs
+* Componentes de vuejs
+
+**_Documentación_**
+
+* Documentación de usuario

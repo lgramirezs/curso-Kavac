@@ -1,8 +1,36 @@
-site_name: Curso Kavac Luis Ramírez 
-repo_name: lgramirezs/Kavac
-repo_url: https://github.com/lgramirezs
+site_name: Curso Kavac/Luis Ramírez
+repo_name: lgramirezs/curso-Kavac
+repo_url: https://github.com/lgramirezs/curso-Kavac
 site_url: https://luisramirezportafolio.netlify.app/
 copyright: Luis Ramírez
 
+nav:
+    - Inicio: index.md
+    - Introducción: nav/introduction.md
+    - Desarrollo: nav/development.md
+    - Documentación: nav/documentation.md
+
+
 theme:
-    name: simple-blog
+  name: simple-blog
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
+  theme_style: light
+  site_name_style: bold
+  title_style: bold
+  sidebar: true
+  navigation_depth: 3
+  highlightjs: true
+    - yaml
+    - python
+  colors:
+    text: black
+    title: black
+    primary: black
+    background: white
+  components:
+    site_name: true
+    title: false
+    menu: true
+    preview: true
+    footer: false
